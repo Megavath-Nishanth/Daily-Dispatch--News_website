@@ -2,7 +2,7 @@
     "version":2,
     "builds":[
         {
-            "src":"news.js",
+            "src":"./news.js",
             "use":"@vercel/node"
         }
     ],
